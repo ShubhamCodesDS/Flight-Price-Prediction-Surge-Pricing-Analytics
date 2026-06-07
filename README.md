@@ -61,7 +61,7 @@ Injected a custom `Cyber Slate Dark` theme layout to construct a unified multi-p
 ## 📸 Dashboard Preview
 
 ![image alt](https://github.com/ShubhamCodesDS/Flight_Price_Prediction_and_Surge_Detection./blob/fb7b11abe8413196eab951d3af9f824678d047eb/Screenshot.png)
-![image alt](https://github.com/ShubhamCodesDS/Flight-Price-Prediction-Surge-Pricing-Analytics/blob/bf3ec3e3a225bc1d58b5d8384b574585f837fd54/Dashboard%202.png)
+![image alt](https://github.com/ShubhamCodesDS/Flight_Price_Prediction_and_Surge_Detection./blob/5bca96a738c10be7dcd6f56e329f9dd52a0466ce/Screenshot%202.png)
 ---
 
 ## 📁 Repository Structure
